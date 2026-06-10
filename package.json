@@ -3,8 +3,7 @@
     "private": true,
     "type": "module",
     "scripts": {
-        "build": "vite build",
-        "dev": "vite"
+        "start": "rm -rf public/storage && php artisan storage:link && php artisan serve --host=0.0.0.0 --port=8080"
     },
     "devDependencies": {
         "@tailwindcss/vite": "^4.3.0",
