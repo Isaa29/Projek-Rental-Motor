@@ -1,4 +1,6 @@
-Panduan Instalasi dan Menjalankan Website Rental Motor Jaya
+<h2>Untuk laporan akhir ada di repo tugas</h2>
+
+<h1>Panduan Instalasi dan Menjalankan Website Rental Motor Jaya</h1>
 
 Rental Motor Jaya merupakan website penyewaan motor berbasis Laravel yang digunakan untuk mempermudah proses rental motor secara online. Sistem ini memiliki dua jenis pengguna, yaitu admin dan customer. Admin dapat mengelola data motor, transaksi, customer, dan laporan. Customer dapat melihat daftar motor, melakukan penyewaan, mengunggah bukti pembayaran, serta melihat riwayat transaksi.
 
